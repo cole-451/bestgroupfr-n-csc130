@@ -15,32 +15,22 @@ public class GuitarWizardController : MonoBehaviour
 
     void Update()
     {
+        var keyboard = Keyboard.current;
+        var gamepad = Gamepad.current;
+
         // just a base kinda prototype for now
         // Keyboard will look like D F J K L, matching GREEN(A), RED(B), YELLOW(Y), BLUE(X), ORANGE(LB)
-        if(Keyboard.current.dKey.isPressed || Gamepad.current.aButton.isPressed)
-        {
-            GreenHeld = true;
-            Debug.Log("green pressed");
-        }
-        if(Keyboard.current.fKey.isPressed || Gamepad.current.bButton.isPressed)
-        {
-            RedHeld = true;
-            Debug.Log("red pressed");
-        }
-        if(Keyboard.current.jKey.isPressed || Gamepad.current.yButton.isPressed)
-        {
-            YellowHeld = true;
-            Debug.Log("yellow pressed");
-        }
-        if(Keyboard.current.kKey.isPressed || Gamepad.current.xButton.isPressed)
-        {
-            BlueHeld = true;
-            Debug.Log("blue pressed");
-        }
-        if(Keyboard.current.lKey.isPressed || Gamepad.current.leftShoulder.isPressed)
-        {
-            OrangeHeld = true;
-            Debug.Log("orange pressed");
-        }
+
+        GreenHeld = (keyboard != null && keyboard.dKey.isPressed) || (gamepad != null && gamepad.aButton.isPressed);
+        RedHeld = (keyboard != null && keyboard.fKey.isPressed) || (gamepad != null && gamepad.bButton.isPressed);
+        YellowHeld = (keyboard != null && keyboard.jKey.isPressed) || (gamepad != null && gamepad.yButton.isPressed);
+        BlueHeld = (keyboard != null && keyboard.kKey.isPressed) || (gamepad != null && gamepad.xButton.isPressed);
+        OrangeHeld = (keyboard != null && keyboard.lKey.isPressed) || (gamepad != null && gamepad.leftShoulder.isPressed);
+
+        if (GreenHeld) Debug.Log("green pressed");
+        if (RedHeld) Debug.Log("red pressed");
+        if (YellowHeld) Debug.Log("yellow pressed");
+        if (BlueHeld) Debug.Log("blue pressed");
+        if (OrangeHeld) Debug.Log("orange pressed");
     }
 }
