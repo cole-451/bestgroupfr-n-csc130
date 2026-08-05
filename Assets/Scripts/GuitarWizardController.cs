@@ -3,11 +3,14 @@ using UnityEngine.InputSystem;
 
 public class GuitarWizardController : MonoBehaviour
 {
+<<<<<<< HEAD
      bool GreenHeld = false;
      bool RedHeld = false;
      bool YellowHeld = false;
      bool BlueHeld = false;
      bool OrangeHeld = false;
+=======
+>>>>>>> main
     void Start()
     {
         
@@ -15,6 +18,7 @@ public class GuitarWizardController : MonoBehaviour
 
     void Update()
     {
+<<<<<<< HEAD
         var keyboard = Keyboard.current;
         var gamepad = Gamepad.current;
 
@@ -32,5 +36,12 @@ public class GuitarWizardController : MonoBehaviour
         if (YellowHeld) Debug.Log("yellow pressed");
         if (BlueHeld) Debug.Log("blue pressed");
         if (OrangeHeld) Debug.Log("orange pressed");
+=======
+        // Keyboard will look like D F J K L, matching GREEN(A), RED(B), YELLOW(Y), BLUE(X), ORANGE(LB)
+        if(Keyboard.current.dKey.isPressed || Gamepad.current.aButton.isPressed)
+        {
+
+        }
+>>>>>>> main
     }
 }
