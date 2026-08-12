@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 93365c362750ea74ebeba49b6f81456b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2512057718297906927
+    second: spr_fire_strip7_0
+  - first:
+      213: -5694522026934743643
+    second: spr_fire_strip7_1
+  - first:
+      213: 6139926010976968039
+    second: spr_fire_strip7_2
+  - first:
+      213: -4102539069431087307
+    second: spr_fire_strip7_3
+  - first:
+      213: -2982761320066120381
+    second: spr_fire_strip7_4
+  - first:
+      213: -1932349937236228222
+    second: spr_fire_strip7_5
+  - first:
+      213: -9063065220624862458
+    second: spr_fire_strip7_6
+  - first:
+      213: 6226745195298664478
+    second: spr_fire_strip7_7
+  - first:
+      213: 8990452052522908946
+    second: spr_fire_strip7_8
+  - first:
+      213: 3396269783948150041
+    second: spr_fire_strip7_9
+  - first:
+      213: -6934292734796510482
+    second: spr_fire_strip7_10
+  - first:
+      213: -7104158592140103117
+    second: spr_fire_strip7_11
+  - first:
+      213: -7084743056202436145
+    second: spr_fire_strip7_12
+  - first:
+      213: -4291388154308442887
+    second: spr_fire_strip7_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_fire_strip7_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 22
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feecc627f2f9cd220800000000000000
+      internalID: 2512057718297906927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fire_strip7_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 98
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adcaea236ef8f0b0800000000000000
+      internalID: -5694522026934743643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fire_strip7_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 101
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d967f1d26653550800000000000000
+      internalID: 6139926010976968039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fire_strip7_3
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 76
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ff569d37ad017c0800000000000000
+      internalID: -4102539069431087307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fire_strip7_4
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 109
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3450fabf16a1b96d0800000000000000
+      internalID: -2982761320066120381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fire_strip7_5
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 88
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287494958f9ee25e0800000000000000
+      internalID: -1932349937236228222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fire_strip7_6
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 99
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60335743336893280800000000000000
+      internalID: -9063065220624862458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fire_strip7_7
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 16
+        width: 51
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10b5a0b3c7d96650800000000000000
+      internalID: 6226745195298664478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fire_strip7_8
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 22
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d3fc0228084cc70800000000000000
+      internalID: 8990452052522908946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fire_strip7_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 99
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9154f91df59f12f20800000000000000
+      internalID: 3396269783948150041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fire_strip7_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 23
+        width: 67
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeac1e54f7174cf90800000000000000
+      internalID: -6934292734796510482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fire_strip7_11
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 22
+        width: 77
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332337f5665f86d90800000000000000
+      internalID: -7104158592140103117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fire_strip7_12
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 16
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1732a1abfedad90800000000000000
+      internalID: -7084743056202436145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_fire_strip7_13
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 13
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4402dd53de174c0800000000000000
+      internalID: -4291388154308442887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spr_fire_strip7_0: 2512057718297906927
+      spr_fire_strip7_1: -5694522026934743643
+      spr_fire_strip7_10: -6934292734796510482
+      spr_fire_strip7_11: -7104158592140103117
+      spr_fire_strip7_12: -7084743056202436145
+      spr_fire_strip7_13: -4291388154308442887
+      spr_fire_strip7_2: 6139926010976968039
+      spr_fire_strip7_3: -4102539069431087307
+      spr_fire_strip7_4: -2982761320066120381
+      spr_fire_strip7_5: -1932349937236228222
+      spr_fire_strip7_6: -9063065220624862458
+      spr_fire_strip7_7: 6226745195298664478
+      spr_fire_strip7_8: 8990452052522908946
+      spr_fire_strip7_9: 3396269783948150041
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
