@@ -77,11 +77,11 @@ public class HighScoreTable : MonoBehaviour
         entryTransform.Find("RankText").GetComponent<TMP_Text>().text = rankString;
 
         //TODO: make score set to score gained from gameplay
-        int score = highscoreEntry.score;
-        entryTransform.Find("InitialsText").GetComponent<TMP_Text>().text = score.ToString();
-
         string name = highscoreEntry.name;
-        entryTransform.Find("ScoreText").GetComponent<TMP_Text>().text = name;
+        entryTransform.Find("InitialsText").GetComponent<TMP_Text>().text = name;
+
+        int score = highscoreEntry.score;
+        entryTransform.Find("ScoreText").GetComponent<TMP_Text>().text = score.ToString();
 
         transformList.Add(entryTransform);
     }
