@@ -77,5 +77,7 @@ public class GuitarWizardController : MonoBehaviour
             BlueFret.SetHeld(false);
         }
         if (OrangeHeld) { Debug.Log("orange pressed, but we aint DOING orange buddy"); }
+
+
     }
 }
