@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{D7D3238A-BC99-641E-0E18-A32B61AE17E5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\leaderboard\\highscoretable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7D3238A-BC99-641E-0E18-A32B61AE17E5}|Assembly-CSharp.csproj|c:\\neumont\\q8\\principles of programming\\bestgroupfr-n-csc130\\assets\\scripts\\guitar\\guitarwizardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D7D3238A-BC99-641E-0E18-A32B61AE17E5}|Assembly-CSharp.csproj|C:\\Neumont\\Q8\\Principles of Programming\\bestgroupfr-n-csc130\\assets\\scripts\\guitar\\guitarwizardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7D3238A-BC99-641E-0E18-A32B61AE17E5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\guitar\\guitarwizardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Guitar\\GuitarWizardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-07T00:16:15.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-07T00:16:15.888Z"
             }
           ]
         }
