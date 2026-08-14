@@ -9,9 +9,18 @@ public class GuitarWizardController : MonoBehaviour
      bool BlueHeld = false;
      bool OrangeHeld = false;
 
+    [SerializeField] Fret GreenFret;
+    [SerializeField] Fret RedFret;
+    [SerializeField] Fret YellowFret;
+    [SerializeField] Fret BlueFret;
+
+
+   
+
     void Start()
     {
         
+
     }
 
     void Update()
@@ -28,10 +37,45 @@ public class GuitarWizardController : MonoBehaviour
         BlueHeld = (keyboard != null && keyboard.kKey.isPressed) || (gamepad != null && gamepad.xButton.isPressed);
         OrangeHeld = (keyboard != null && keyboard.lKey.isPressed) || (gamepad != null && gamepad.leftShoulder.isPressed);
 
-        if (GreenHeld) Debug.Log("green pressed");
-        if (RedHeld) Debug.Log("red pressed");
-        if (YellowHeld) Debug.Log("yellow pressed");
-        if (BlueHeld) Debug.Log("blue pressed");
-        if (OrangeHeld) Debug.Log("orange pressed");
+        if (GreenHeld) { 
+            
+            Debug.Log("green pressed");
+            //TODO: change fret opacity and activate trigger when held
+            GreenFret.SetHeld(true);
+
+        }
+        else
+        {
+            GreenFret.SetHeld(false);
+
+        }
+        if (RedHeld)
+        {
+            Debug.Log("red pressed");
+            RedFret.SetHeld(true);
+        }
+        else
+        {
+            RedFret.SetHeld(false);
+        }
+        if (YellowHeld)
+        {
+            Debug.Log("yellow pressed");
+            YellowFret.SetHeld(true);
+        }
+        else
+        {
+            YellowFret.SetHeld(false);
+        }
+        if (BlueHeld)
+        {
+            Debug.Log("blue pressed");
+            BlueFret.SetHeld(true);
+        }
+        else
+        {
+            BlueFret.SetHeld(false);
+        }
+        if (OrangeHeld) { Debug.Log("orange pressed, but we aint DOING orange buddy"); }
     }
 }
