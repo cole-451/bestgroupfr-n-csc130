@@ -60,6 +60,7 @@ public class MainMenuManager : MonoBehaviour
     {
         PlaySelectSfx();
         SwitchPanel(mainMenuPanel);
+        MenuAudioManager.Instance.PlayMusic(mainMenuTrack);
     }
 
 //     public void OnQuitPressed()
@@ -80,7 +81,7 @@ public class MainMenuManager : MonoBehaviour
     public void LoadSongScene(string sceneName)
     {
         PlaySelectSfx();
-        //StartCoroutine(LoadSceneRoutine(sceneName)); //TODO
+        StartCoroutine(LoadSceneRoutine(sceneName));
     }
 
     // Hook to Button > "Pointer Enter" via an EventTrigger, or call from a
