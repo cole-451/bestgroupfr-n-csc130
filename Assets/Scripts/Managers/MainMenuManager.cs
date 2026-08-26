@@ -11,10 +11,12 @@ public class MainMenuManager : MonoBehaviour
     //public CanvasGroup creditsPanel;
 
     [Header("Audio")]
-    public AudioSource sfxSource;      // one-shot SFX
+    public AudioSource sfxSource;      // one-shot SFX track
     public AudioSource musicSource;    // looping menu track
     public AudioClip hoverSfx;
     public AudioClip selectSfx;
+    public AudioClip mainMenuTrack;
+    public AudioClip songSelectTrack; //TODO needs to be an array with a way to reference the index to the song select button's song
 
     [Header("Transition")]
     public float fadeDuration = 0.25f;
@@ -28,7 +30,7 @@ public class MainMenuManager : MonoBehaviour
     {
         ShowPanelImmediate(mainMenuPanel);
 
-        if (musicSource != null && !musicSource.isPlaying) musicSource.Play();
+        if (musicSource != null && !musicSource.isPlaying) MenuAudioManager.Instance.PlayMusic(mainMenuTrack);
     }
 
 
@@ -39,6 +41,7 @@ public class MainMenuManager : MonoBehaviour
     {
         PlaySelectSfx();
         SwitchPanel(songSelectPanel);
+        MenuAudioManager.Instance.PlayMusic(songSelectTrack, 1.5f);
     }
 
     public void OnSettingsPressed()
@@ -77,7 +80,7 @@ public class MainMenuManager : MonoBehaviour
     public void LoadSongScene(string sceneName)
     {
         PlaySelectSfx();
-        StartCoroutine(LoadSceneRoutine(sceneName));
+        //StartCoroutine(LoadSceneRoutine(sceneName)); //TODO
     }
 
     // Hook to Button > "Pointer Enter" via an EventTrigger, or call from a
@@ -85,13 +88,13 @@ public class MainMenuManager : MonoBehaviour
     public void PlayHoverSfx()
     {
         if (sfxSource != null && hoverSfx != null)
-            sfxSource.PlayOneShot(hoverSfx);
+            MenuAudioManager.Instance.PlaySFX(hoverSfx);
     }
 
     public void PlaySelectSfx()
     {
         if (sfxSource != null && selectSfx != null)
-            sfxSource.PlayOneShot(selectSfx);
+            MenuAudioManager.Instance.PlaySFX(selectSfx);
     }
 
     // ---- Internals ----
