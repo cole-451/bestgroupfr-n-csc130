@@ -1,0 +1,2067 @@
+fileFormatVersion: 2
+guid: e068aa3c8509be24d8be89557c8056c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -748310776575549299
+    second: spr_torch_yellow_0
+  - first:
+      213: -129220463110814905
+    second: spr_torch_yellow_1
+  - first:
+      213: 3953232558980956501
+    second: spr_torch_yellow_2
+  - first:
+      213: 7518839140250522437
+    second: spr_torch_yellow_3
+  - first:
+      213: 4543806750521838184
+    second: spr_torch_yellow_4
+  - first:
+      213: -1422054727200276795
+    second: spr_torch_yellow_5
+  - first:
+      213: 187031473406476152
+    second: spr_torch_yellow_6
+  - first:
+      213: 8688983829968891597
+    second: spr_torch_yellow_7
+  - first:
+      213: 5128269133721125998
+    second: spr_torch_yellow_8
+  - first:
+      213: -5671604559489833882
+    second: spr_torch_yellow_9
+  - first:
+      213: -7691310773722244533
+    second: spr_torch_yellow_10
+  - first:
+      213: 3098124367852341315
+    second: spr_torch_yellow_11
+  - first:
+      213: -8638637675817542829
+    second: spr_torch_yellow_12
+  - first:
+      213: 4356321187027196279
+    second: spr_torch_yellow_13
+  - first:
+      213: -254811343939460751
+    second: spr_torch_yellow_14
+  - first:
+      213: 481920538970783221
+    second: spr_torch_yellow_15
+  - first:
+      213: 6484899997574292890
+    second: spr_torch_yellow_16
+  - first:
+      213: 6405777725753013159
+    second: spr_torch_yellow_17
+  - first:
+      213: -7167296043802851233
+    second: spr_torch_yellow_18
+  - first:
+      213: -8062160693182986720
+    second: spr_torch_yellow_19
+  - first:
+      213: -4006058998774428371
+    second: spr_torch_yellow_20
+  - first:
+      213: -6850935544590444823
+    second: spr_torch_yellow_21
+  - first:
+      213: -2244696083741452486
+    second: spr_torch_yellow_22
+  - first:
+      213: 5560969208855126138
+    second: spr_torch_yellow_23
+  - first:
+      213: -2716456465625298672
+    second: spr_torch_yellow_24
+  - first:
+      213: 1635486361765413723
+    second: spr_torch_yellow_25
+  - first:
+      213: -6129430530648827949
+    second: spr_torch_yellow_26
+  - first:
+      213: 2838840569111762754
+    second: spr_torch_yellow_27
+  - first:
+      213: -5920639238404806575
+    second: spr_torch_yellow_28
+  - first:
+      213: -4385392711355140972
+    second: spr_torch_yellow_29
+  - first:
+      213: -7152369238464728991
+    second: spr_torch_yellow_30
+  - first:
+      213: 1100888970116500992
+    second: spr_torch_yellow_31
+  - first:
+      213: -3027617864952390402
+    second: spr_torch_yellow_32
+  - first:
+      213: 1675232767179811767
+    second: spr_torch_yellow_33
+  - first:
+      213: 8163622916430755258
+    second: spr_torch_yellow_34
+  - first:
+      213: -1383825205130804751
+    second: spr_torch_yellow_35
+  - first:
+      213: -1434904783761672190
+    second: spr_torch_yellow_36
+  - first:
+      213: -2888612795339345329
+    second: spr_torch_yellow_37
+  - first:
+      213: 261823266536533341
+    second: spr_torch_yellow_38
+  - first:
+      213: 4755805726750068795
+    second: spr_torch_yellow_39
+  - first:
+      213: 2646832649636359900
+    second: spr_torch_yellow_40
+  - first:
+      213: -7876741069374087914
+    second: spr_torch_yellow_41
+  - first:
+      213: -4606989630056816072
+    second: spr_torch_yellow_42
+  - first:
+      213: 7652061744029709555
+    second: spr_torch_yellow_43
+  - first:
+      213: -6565580873141475676
+    second: spr_torch_yellow_44
+  - first:
+      213: 3551196139664092513
+    second: spr_torch_yellow_45
+  - first:
+      213: 1788882152946454503
+    second: spr_torch_yellow_46
+  - first:
+      213: -4558779429371123583
+    second: spr_torch_yellow_47
+  - first:
+      213: -7861344800313472730
+    second: spr_torch_yellow_48
+  - first:
+      213: 8937230440200257679
+    second: spr_torch_yellow_49
+  - first:
+      213: 8464987056447431030
+    second: spr_torch_yellow_50
+  - first:
+      213: 5637971567761814527
+    second: spr_torch_yellow_51
+  - first:
+      213: 1776160386545867599
+    second: spr_torch_yellow_52
+  - first:
+      213: -7993425418423762134
+    second: spr_torch_yellow_53
+  - first:
+      213: -5268000158298988194
+    second: spr_torch_yellow_54
+  - first:
+      213: 582568176241715919
+    second: spr_torch_yellow_55
+  - first:
+      213: 6061310494664422944
+    second: spr_torch_yellow_56
+  - first:
+      213: -6889065377575978746
+    second: spr_torch_yellow_57
+  - first:
+      213: -1867833925843774339
+    second: spr_torch_yellow_58
+  - first:
+      213: 8445746176295778101
+    second: spr_torch_yellow_59
+  - first:
+      213: 4055727035374733265
+    second: spr_torch_yellow_60
+  - first:
+      213: 8958332529096979202
+    second: spr_torch_yellow_61
+  - first:
+      213: -4405676097435617917
+    second: spr_torch_yellow_62
+  - first:
+      213: -6429622807128656747
+    second: spr_torch_yellow_63
+  - first:
+      213: -1930824802142104430
+    second: spr_torch_yellow_64
+  - first:
+      213: 6986320370885846192
+    second: spr_torch_yellow_65
+  - first:
+      213: 2176386593425986436
+    second: spr_torch_yellow_66
+  - first:
+      213: -5882019011399982830
+    second: spr_torch_yellow_67
+  - first:
+      213: -4674817358461558026
+    second: spr_torch_yellow_68
+  - first:
+      213: -3500018934080859919
+    second: spr_torch_yellow_69
+  - first:
+      213: 111584258506592099
+    second: spr_torch_yellow_70
+  - first:
+      213: 7362331712415012209
+    second: spr_torch_yellow_71
+  - first:
+      213: 1651716293011776388
+    second: spr_torch_yellow_72
+  - first:
+      213: -5875322323811712841
+    second: spr_torch_yellow_73
+  - first:
+      213: -5555442714483440041
+    second: spr_torch_yellow_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_torch_yellow_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 826
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d802e9c30577d95f0800000000000000
+      internalID: -748310776575549299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 826
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74381966caae43ef0800000000000000
+      internalID: -129220463110814905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_2
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 826
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55181983114bcd630800000000000000
+      internalID: 3953232558980956501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 904
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5439fed8c58485860800000000000000
+      internalID: 7518839140250522437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_4
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 826
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a40ec5a28de0f30800000000000000
+      internalID: 4543806750521838184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_5
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 902
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ceff0e82c8d34ce0800000000000000
+      internalID: -1422054727200276795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_6
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 897
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ff5365228789200800000000000000
+      internalID: 187031473406476152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_7
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 826
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcea864d1c8759870800000000000000
+      internalID: 8688983829968891597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_8
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 903
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e644c0c3b954b2740800000000000000
+      internalID: 5128269133721125998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_9
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 826
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6646f1dd3b96a41b0800000000000000
+      internalID: -5671604559489833882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_10
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 826
+        width: 73
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a96230a99f24590800000000000000
+      internalID: -7691310773722244533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 697
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34802dfa2bfbefa20800000000000000
+      internalID: 3098124367852341315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 634
+        width: 101
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bd695adc46d1880800000000000000
+      internalID: -8638637675817542829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_13
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 696
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7799340f903c47c30800000000000000
+      internalID: 4356321187027196279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 634
+        width: 96
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171afb7ce6ab67cf0800000000000000
+      internalID: -254811343939460751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_15
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 694
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd71574d2020b600800000000000000
+      internalID: 481920538970783221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_16
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 634
+        width: 94
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95e857703efef950800000000000000
+      internalID: 6484899997574292890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_17
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 697
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a33e9df6e4e5e850800000000000000
+      internalID: 6405777725753013159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_18
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 634
+        width: 104
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58811dd836a88c90800000000000000
+      internalID: -7167296043802851233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_19
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 696
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02606b090937d1090800000000000000
+      internalID: -8062160693182986720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_20
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 634
+        width: 97
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d0bccc09e9768c0800000000000000
+      internalID: -4006058998774428371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_21
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 694
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6d6958b669ce0a0800000000000000
+      internalID: -6850935544590444823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_22
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 634
+        width: 94
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3751e30ecc39d0e0800000000000000
+      internalID: -2244696083741452486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_23
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 442
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70e1bc38088c2d40800000000000000
+      internalID: 5560969208855126138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_24
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 442
+        width: 92
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0194796ac353d4ad0800000000000000
+      internalID: -2716456465625298672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_25
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 532
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53060c4e2a62b610800000000000000
+      internalID: 1635486361765413723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_26
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 541
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d71e315863efeaa0800000000000000
+      internalID: -6129430530648827949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_27
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 546
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247dfdfe476956720800000000000000
+      internalID: 2838840569111762754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_28
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 442
+        width: 82
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15864a74bf9a5dda0800000000000000
+      internalID: -5920639238404806575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_29
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 532
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494f6175094f323c0800000000000000
+      internalID: -4385392711355140972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_30
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 521
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160f0ee821eadbc90800000000000000
+      internalID: -7152369238464728991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_31
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 441
+        width: 123
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e80f08fa4274f00800000000000000
+      internalID: 1100888970116500992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_32
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 527
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efcd2e3c79dbbf5d0800000000000000
+      internalID: -3027617864952390402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_33
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 529
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbe8d3735f9f3710800000000000000
+      internalID: 1675232767179811767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_34
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 525
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5f71e2ac30b4170800000000000000
+      internalID: 8163622916430755258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_35
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 530
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f142f8ce4aabcce0800000000000000
+      internalID: -1383825205130804751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_36
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 529
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208706d93b1361ce0800000000000000
+      internalID: -1434904783761672190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_37
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 514
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42762897f599e7d0800000000000000
+      internalID: -2888612795339345329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_38
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 440
+        width: 105
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5da7dbafde22a300800000000000000
+      internalID: 261823266536533341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_39
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 442
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30d4b37c14000240800000000000000
+      internalID: 4755805726750068795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_40
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 478
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde2b7575407bb420800000000000000
+      internalID: 2646832649636359900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_41
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 444
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d1a3ceab130b290800000000000000
+      internalID: -7876741069374087914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_42
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 458
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8322e80275fa010c0800000000000000
+      internalID: -4606989630056816072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_43
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 250
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f43f342d95913a60800000000000000
+      internalID: 7652061744029709555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_44
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 250
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6ad485bfe52e4a0800000000000000
+      internalID: -6565580873141475676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_45
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 250
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16daa60f212684130800000000000000
+      internalID: 3551196139664092513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_46
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 323
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efc86717d263d810800000000000000
+      internalID: 1788882152946454503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_47
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 319
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188e9fe2346fbb0c0800000000000000
+      internalID: -4558779429371123583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_48
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 325
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62983782e84e6e290800000000000000
+      internalID: -7861344800313472730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_49
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 268
+        width: 15
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80c1ffdbbb670c70800000000000000
+      internalID: 8937230440200257679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_50
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 220
+        width: 113
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67124dfd0eca97570800000000000000
+      internalID: 8464987056447431030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_51
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 301
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3f13605491e3e40800000000000000
+      internalID: 5637971567761814527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_52
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 214
+        width: 107
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bdf28067036a810800000000000000
+      internalID: 1776160386545867599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_53
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 244
+        width: 93
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a230644dee5a11190800000000000000
+      internalID: -7993425418423762134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_54
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 280
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5123ef54cd44e6b0800000000000000
+      internalID: -5268000158298988194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_55
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 259
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcaa5527ba2b51800800000000000000
+      internalID: 582568176241715919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_56
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 241
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026f1dbd7c91e1450800000000000000
+      internalID: 6061310494664422944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_57
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 236
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6093427f98f1560a0800000000000000
+      internalID: -6889065377575978746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_58
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 224
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7498aec0fe1416e0800000000000000
+      internalID: -1867833925843774339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_59
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 218
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537393d5661553570800000000000000
+      internalID: 8445746176295778101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_60
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 224
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d785712046d84830800000000000000
+      internalID: 4055727035374733265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_61
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 60
+        width: 141
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203f6a0d8f3625c70800000000000000
+      internalID: 8958332529096979202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_62
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 59
+        width: 109
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385bbe08ee4ebd2c0800000000000000
+      internalID: -4405676097435617917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_63
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 141
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594b85d5f1465c6a0800000000000000
+      internalID: -6429622807128656747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_64
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 145
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2945ec882155435e0800000000000000
+      internalID: -1930824802142104430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_65
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 142
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4e9b9bc5564f060800000000000000
+      internalID: 6986320370885846192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_66
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 58
+        width: 93
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48314136314143e10800000000000000
+      internalID: 2176386593425986436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 43
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211e8679fdede5ea0800000000000000
+      internalID: -5882019011399982830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_68
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 40
+        width: 93
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2a1177166bf1fb0800000000000000
+      internalID: -4674817358461558026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_69
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 119
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f018f6c25f6d6fc0800000000000000
+      internalID: -3500018934080859919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_70
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 58
+        width: 118
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f8fcaba4d6c8100800000000000000
+      internalID: 111584258506592099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_71
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 107
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17517156fa14c2660800000000000000
+      internalID: 7362331712415012209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_72
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 71
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48321b2a7331ce610800000000000000
+      internalID: 1651716293011776388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_73
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 46
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0c74ca979a67ea0800000000000000
+      internalID: -5875322323811712841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_torch_yellow_74
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756ce21094a17e2b0800000000000000
+      internalID: -5555442714483440041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spr_torch_yellow_0: -748310776575549299
+      spr_torch_yellow_1: -129220463110814905
+      spr_torch_yellow_10: -7691310773722244533
+      spr_torch_yellow_11: 3098124367852341315
+      spr_torch_yellow_12: -8638637675817542829
+      spr_torch_yellow_13: 4356321187027196279
+      spr_torch_yellow_14: -254811343939460751
+      spr_torch_yellow_15: 481920538970783221
+      spr_torch_yellow_16: 6484899997574292890
+      spr_torch_yellow_17: 6405777725753013159
+      spr_torch_yellow_18: -7167296043802851233
+      spr_torch_yellow_19: -8062160693182986720
+      spr_torch_yellow_2: 3953232558980956501
+      spr_torch_yellow_20: -4006058998774428371
+      spr_torch_yellow_21: -6850935544590444823
+      spr_torch_yellow_22: -2244696083741452486
+      spr_torch_yellow_23: 5560969208855126138
+      spr_torch_yellow_24: -2716456465625298672
+      spr_torch_yellow_25: 1635486361765413723
+      spr_torch_yellow_26: -6129430530648827949
+      spr_torch_yellow_27: 2838840569111762754
+      spr_torch_yellow_28: -5920639238404806575
+      spr_torch_yellow_29: -4385392711355140972
+      spr_torch_yellow_3: 7518839140250522437
+      spr_torch_yellow_30: -7152369238464728991
+      spr_torch_yellow_31: 1100888970116500992
+      spr_torch_yellow_32: -3027617864952390402
+      spr_torch_yellow_33: 1675232767179811767
+      spr_torch_yellow_34: 8163622916430755258
+      spr_torch_yellow_35: -1383825205130804751
+      spr_torch_yellow_36: -1434904783761672190
+      spr_torch_yellow_37: -2888612795339345329
+      spr_torch_yellow_38: 261823266536533341
+      spr_torch_yellow_39: 4755805726750068795
+      spr_torch_yellow_4: 4543806750521838184
+      spr_torch_yellow_40: 2646832649636359900
+      spr_torch_yellow_41: -7876741069374087914
+      spr_torch_yellow_42: -4606989630056816072
+      spr_torch_yellow_43: 7652061744029709555
+      spr_torch_yellow_44: -6565580873141475676
+      spr_torch_yellow_45: 3551196139664092513
+      spr_torch_yellow_46: 1788882152946454503
+      spr_torch_yellow_47: -4558779429371123583
+      spr_torch_yellow_48: -7861344800313472730
+      spr_torch_yellow_49: 8937230440200257679
+      spr_torch_yellow_5: -1422054727200276795
+      spr_torch_yellow_50: 8464987056447431030
+      spr_torch_yellow_51: 5637971567761814527
+      spr_torch_yellow_52: 1776160386545867599
+      spr_torch_yellow_53: -7993425418423762134
+      spr_torch_yellow_54: -5268000158298988194
+      spr_torch_yellow_55: 582568176241715919
+      spr_torch_yellow_56: 6061310494664422944
+      spr_torch_yellow_57: -6889065377575978746
+      spr_torch_yellow_58: -1867833925843774339
+      spr_torch_yellow_59: 8445746176295778101
+      spr_torch_yellow_6: 187031473406476152
+      spr_torch_yellow_60: 4055727035374733265
+      spr_torch_yellow_61: 8958332529096979202
+      spr_torch_yellow_62: -4405676097435617917
+      spr_torch_yellow_63: -6429622807128656747
+      spr_torch_yellow_64: -1930824802142104430
+      spr_torch_yellow_65: 6986320370885846192
+      spr_torch_yellow_66: 2176386593425986436
+      spr_torch_yellow_67: -5882019011399982830
+      spr_torch_yellow_68: -4674817358461558026
+      spr_torch_yellow_69: -3500018934080859919
+      spr_torch_yellow_7: 8688983829968891597
+      spr_torch_yellow_70: 111584258506592099
+      spr_torch_yellow_71: 7362331712415012209
+      spr_torch_yellow_72: 1651716293011776388
+      spr_torch_yellow_73: -5875322323811712841
+      spr_torch_yellow_74: -5555442714483440041
+      spr_torch_yellow_8: 5128269133721125998
+      spr_torch_yellow_9: -5671604559489833882
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
