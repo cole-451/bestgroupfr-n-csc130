@@ -6,6 +6,7 @@ using UnityEngine;
 /// Name of song.
 /// Artist name.
 /// Genre.
+/// BPM (needed so BPMTick can sync note ticks to this song's tempo).
 /// Audio clips for lead, bass, vocals, and drums.
 /// </summary>
 [Serializable]
@@ -14,16 +15,18 @@ public struct SongInfo
     public readonly string songName;
     public readonly string artistName;
     public readonly string genre;
+    public readonly float bpm;
     public readonly AudioClip leadAudioClip;
     public readonly AudioClip bassAudioClip;
     public readonly AudioClip vocalsAudioClip;
     public readonly AudioClip drumsAudioClip;
 
-    public SongInfo(string songName, string artistName, string genre, AudioClip leadAudioClip, AudioClip bassAudioClip, AudioClip vocalsAudioClip, AudioClip drumsAudioClip)
+    public SongInfo(string songName, string artistName, string genre, float bpm, AudioClip leadAudioClip, AudioClip bassAudioClip, AudioClip vocalsAudioClip, AudioClip drumsAudioClip)
     {
         this.songName = songName;
         this.artistName = artistName;
         this.genre = genre;
+        this.bpm = bpm;
         this.leadAudioClip = leadAudioClip;
         this.bassAudioClip = bassAudioClip;
         this.vocalsAudioClip = vocalsAudioClip;
