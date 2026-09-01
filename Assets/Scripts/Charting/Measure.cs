@@ -9,6 +9,6 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "NewMeasure", menuName = "BW/MeasureDefinition")]
 public class Measure : ScriptableObject
 {
-    public List<Note> notes;
+    public List<Note> notes = new List<Note>();
     public int timeSignatureNumerator;
 }
